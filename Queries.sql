@@ -1,3 +1,4 @@
+
 UPDATE Employee_reneeka SET Emp_Position = 'Driver' WHERE EmployeeID = 2;
 SELECT * FROM Employee_reneeka;
 
